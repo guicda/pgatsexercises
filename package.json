@@ -1,0 +1,23 @@
+{
+  "name": "pgats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guicda/pgatsexercises.git"
+  },
+  "author": "Guilherme Aquino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guicda/pgatsexercises/issues"
+  },
+  "homepage": "https://github.com/guicda/pgatsexercises#readme",
+  "devDependencies": {
+    "mocha": "^11.5.0"
+  }
+}
